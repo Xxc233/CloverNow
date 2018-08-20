@@ -3,8 +3,8 @@ AppleScript application for auto Clover download. Support auto mount ESP and upg
 
 
 ## ChangeLog：
-v2.3: Fix Did's github version getting bug due to reLease increment.
-
+v2.3: 1.Fix Did's github version getting bug due to reLease increment.
+      2.Remove reward button and replaced by  Github star button.
 
 ## Credits
 - [Dids](https://github.com/Dids/clover-builder)
