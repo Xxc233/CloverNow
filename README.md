@@ -2,12 +2,6 @@
 
 ## CloverAutoDown
 AppleScript application for auto Clover download. Support auto mount ESP and upgrade EFI/CLOVER...
-
-
-## ChangeLog：
-**v2.3**:   
-1.Fix Dids github version getting bug due to reLease increment.   
-2.Remove reward button and replaced by  Github star button.
       
 
 ## Credits
