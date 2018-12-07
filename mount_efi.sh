@@ -83,5 +83,5 @@ if [[ -z "$EFIMountPoint" ]]; then
     EFIMountPoint=$(LC_ALL=C diskutil info "$EFIDevice" 2>/dev/null | sed -n 's/.*Mount Point: *//p')
     code=$?
 fi
-diskutil rename $EFIMountPoint ESP
+diskutil rename $EFIMountPoint ESP_MAC
 exit $code
