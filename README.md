@@ -1,4 +1,4 @@
-   ![](https://github.com/Xxc233/AutoCloverDown/blob/master/icns/applogo.png)
+   ![](https://github.com/Xxc233/CloverNow/blob/master/Resources/applogo.png)
 
 ## CloverAutoDown
 AppleScript application for auto Clover download. Support auto mount ESP and upgrade EFI/CLOVER...
@@ -7,3 +7,6 @@ AppleScript application for auto Clover download. Support auto mount ESP and upg
 ## Credits
 - [Dids](https://github.com/Dids/clover-builder)
 - [Rehabman](https://github.com/RehabMan)
+
+## Sponsor
+![](https://github.com/Xxc233/CloverNow/blob/master/Resources/Reward.png)
