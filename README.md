@@ -8,5 +8,3 @@ AppleScript application for auto Clover download. Support auto mount ESP and upg
 - [Dids](https://github.com/Dids/clover-builder)
 - [Rehabman](https://github.com/RehabMan)
 
-## Sponsor
-![](https://github.com/Xxc233/CloverNow/blob/master/Resources/Reward.png)
